@@ -22,11 +22,7 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 #### Set up Instructions
 
-- From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 8 and 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues. This book is a phenomenal resource for learning git, GitHub, and RStudio integration. Another one to bookmark!
-
-##### Set up Tips:
-- When you execute `usethis::create_github_token()` in R to create your PAT and the browser window pops up, give the token a name (maybe the date you created it) and keep all default settings EXCEPT **change the Expiration date to "No Expiration"**. Then when you click "Generate Token", keep that token somewhere you can find it later, as you won't be able to view it again through GitHub. That token is then what you paste in R after running `gitcreds::gitcreds_set()`
-- If GitHub is bothering you to set up 2-factor Authentication (recommended), you can do so here: https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication. Follow the instructions for "using a TOTP app", and you can use DUO like we use to log into our CSU accounts.
+Navigate to the [Git, GitHub and RStudio Setup Guide](https://github.com/Env-Data-Sci-FA26/.github/blob/main/git-github-rstudio-setup.md) and follow all steps before moving forward with any of the course content.
 
 ### Suggested
 
@@ -100,5 +96,5 @@ A final note. The data science field changes extremely quickly. We will teach yo
 | 12   | 11/9          | **Introduction to Working with Geospatial Data (cont.)** <br>  Assignment - Geospatial Workflows (20 points)                            | 11/16               |
 | 13   | 11/16         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 11/30               |
 | 14   | 11/23         |  **No Classes - Fall Break**                                     |                |
-| 15   | 11/30         | **Final Projects - R Markdown, Bookdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                                                                                       | 12/16                   |
+| 15   | 11/30         | **Final Projects - R Markdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                                                                                       | 12/16                   |
 | 16   | 12/8         | **Final Project worktime; Continuing your data science journey :)**                                  |                |
