@@ -89,12 +89,12 @@ A final note. The data science field changes extremely quickly. We will teach yo
 | 5    | 9/21          | Before class: Iterate<br>  Simple Linear Regression<br>  Assignment - Simple regression (20 points)                                     | 9/28                |
 | 6    | 9/28          | Before class: Write Functions<br>  Multiple Linear Regression<br>  Assignment - Interpreting multiple linear regression (20 points)     | 10/5                |
 | 7    | 10/5          | Power in Statistical Analysis and R Skills Review<br>  Assignment - Power (20 points)                                              | 10/12                |
-| 8    | 10/12          | *Before Class* R, Git and GitHub Setup Instructions<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 10/20               |
-| 9    | 10/19         | **Debugging and AI**<br>  Assignment - Code Debugging and AI (20 points)                                                                       | 10/25               |
+| 8    | 10/12          | *Before Class* R, Git and GitHub Setup Instructions<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 10/19               |
+| 9    | 10/19         | **Debugging and AI**<br>  Assignment - Code Debugging and AI (20 points)                                                                       | 10/26               |
 | 10   | 10/26         | **Iteration, Functions, API calls**<br> Assignment - National Park Visitation (20 points)                                             | 11/2               |
 | 11   | 11/2         | **Introduction to Working with Geospatial Data**                                                          | 11/16                 |
 | 12   | 11/9          | **Introduction to Working with Geospatial Data (cont.)** <br>  Assignment - Geospatial Workflows (20 points)                            | 11/16               |
 | 13   | 11/16         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 11/30               |
 | 14   | 11/23         |  **No Classes - Fall Break**                                     |                |
 | 15   | 11/30         | **Final Projects - R Markdown, Quarto, Shiny**<br>  Assignment - Final Project (100 points)                                                                                                       | 12/16                   |
-| 16   | 12/8         | **Final Project worktime; Continuing your data science journey :)**                                  |                |
+| 16   | 12/7         | **Final Project worktime; Continuing your data science journey :)**                                  |                |
